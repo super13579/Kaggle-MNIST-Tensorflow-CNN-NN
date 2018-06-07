@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import seaborn as sns
 
+
 #Data pre process
 
 data_train = pd.read_csv ("Normal_trainx.csv")
