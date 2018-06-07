@@ -5,4 +5,4 @@ Practice Tensorflow CNN NN for Kaggle MNIST
 Practice MNIST Tensorflow CNN and Logistic regression 
 
 MNIST CNN for 99.2%
-Logistic regresson for 98%
+Logistic regresson for 89%
