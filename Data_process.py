@@ -14,6 +14,7 @@ data_x = data_train.drop(["label"],axis=1)
 #est_x = pd.read_csv ("./Data/test.csv")
 #test_x = test_x/255
 
+
 #targets = LabelBinarizer().fit_transform(data_y)
 #data_x = data_x/255
 #targets = targets/255
