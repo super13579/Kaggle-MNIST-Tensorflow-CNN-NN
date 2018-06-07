@@ -4,6 +4,7 @@ import numpy as np
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.model_selection import train_test_split
 
+
 #data process
 data_train = pd.read_csv ("./Data/train.csv")
 data_y = data_train["label"]
